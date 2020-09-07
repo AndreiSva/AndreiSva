@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">Im a passionate C++ and Java programmer.</h3>
 
 - 🔭 I’m currently working on **a programming language called TEA script**
@@ -9,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisva&layout=compact&hide=html" alt="andreisva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreisva&show_icons=true" alt="andreisva" /></p>
-
-
