@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">Im a passionate C++ and Java programmer.</h3>
 
-- 🔭 I’m currently working on **a programming language called TEA script** and a cellular automation engine made in OpenGL
+- 🔭 I’m currently working on **a programming language called Crispin** and a cellular automation engine made in OpenGL
 
 - 🌱 I’m currently learning **the OpenGL graphics API and backend web development**
 
